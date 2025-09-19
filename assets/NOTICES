@@ -6180,6 +6180,7 @@ THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+google_fonts
 google_identity_services_web
 google_sign_in
 google_sign_in_android
